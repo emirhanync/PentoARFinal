@@ -1,4 +1,6 @@
 # Proje Zaman Çizelgesi
+#Site linki:https://emirhanync.github.io/PentoARFinal/
+#Trello linki:https://trello.com/b/9XInHVP4/pentomino-ar
 
 ## 📅 1. Hafta
 - ✅ **GitHub ve Trello Hesaplarının Açılması**
