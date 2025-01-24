@@ -44,3 +44,4 @@
 - 📱 **Uygulama Giriş Ekranı** tasarlandı ve yapıldı.
 - 🛠 **Uygulama İçi Ekran** oluşturuldu.
 - 🛒 **Satın Alım Ekranı** tasarlandı ve geliştirildi.
+ - 📱 **Teknoloji Hazırlık Seviyesi** Belirtilen form dolduruldu.
